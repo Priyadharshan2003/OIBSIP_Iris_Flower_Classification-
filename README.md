@@ -7,10 +7,17 @@ This dataset is often used in machine learning and data science for tasks such a
 # Steps Need To Be Followed :  
 
 ->Load the dataset
+
 ->Split the dataset into training and testing sets
+
 ->Explore the data
+
 ->Preprocess the data
+
 ->Train a model
+
 ->Evaluate the model
+
 ->Tune the model parameters
+
 ->Test the model on new data
