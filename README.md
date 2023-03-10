@@ -11,14 +11,14 @@ This dataset is often used in machine learning and data science for tasks such a
 
 # Step 2: ->Split the dataset into training and testing sets
 
-# ->Explore the data
+# Step 3: ->Explore the data
 
-# ->Preprocess the data
+# Step 4: ->Preprocess the data
 
-# ->Train a model
+# Step 5: ->Train a model
 
-# ->Evaluate the model
+# Step 6: ->Evaluate the model
 
-# ->Tune the model parameters
+# Step 7: ->Tune the model parameters
 
-# ->Test the model on new data
+# Step 8: ->Test the model on new data
